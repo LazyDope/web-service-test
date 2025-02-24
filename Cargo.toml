@@ -6,4 +6,5 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.96"
 axum = "0.8.1"
+sysinfo = "0.33.1"
 tokio = { version = "1.43.0", features = ["full"] }
